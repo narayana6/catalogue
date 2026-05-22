@@ -3,7 +3,6 @@
 // create variable of map type and set the values
 
 def configMap = [
-
     component: "catalogue",
     project: "roboshop"
 ]
