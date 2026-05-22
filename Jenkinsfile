@@ -3,7 +3,7 @@
 // create variable of map type and set the values
 
 def configMap = [
-    component: "Catalogue ",
+    component: "catalogue ",
     project: "roboshop"
 ]
 echo "test:"
